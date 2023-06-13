@@ -1,5 +1,4 @@
 print("First python program")
-A = "Anurag"
-input("Enter your Name")
+A="Anurag"
 B=input("Enter Surname\n")
 print(A+B)                                                                                                                                              
